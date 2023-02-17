@@ -1,25 +1,10 @@
-[{
-      "id": 17,
-      "duration": "",
-      "name": "Site Web (Angular/NodeJS)",
-      "titre": "",
-      "description": "Développement d'un site web basé sur le framework Angular/NodeJS",
-      "tache": "",
-      "technologies": ["Node JS", "Angular","MySql", "TypeScript", "Html", "Css", "Bootstrap", "Git"],
-      "show": 2,
-      "icon": "assets/images/imges-projets/img-site-web-1.svg",
-      "mainImage": "assets/images/imges-projets/img-site-web-1.svg",
-      "images": [],
-      "taches": [],
-      "urlGit": [],
-      "urlWeb": []
-},
+[
 {
       "id": 18,
       "duration": "",
       "name": "Développement une application E2C [Front Office et Back Office]",
       "titre": "",
-      "description": "Développement d’une application qui permet au ministère de gestionner les dossiers, vérifier et d'autoriser une association à démarrer un nouveau programme d'études s'il est validé [Front Office(FrontEnd, RestApi) et Back Office(FrontEnd, RestApi)]",
+      "description": "Développement d’une application qui permet au ministère de gestionner les dossiers, vérifier et d'autoriser une association à démarrer un nouveau programme d'études s'il est validé ",
       "tache": "",
       "technologies": ["Spring Boot", "Angular","Rest API", "MySql", "TypeScript", "Html", "Css", "Bootstrap", "Git", "Swagger"],
       "show": 2,
