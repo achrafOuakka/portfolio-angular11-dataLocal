@@ -9,4 +9,3 @@ RewriteRule ^ /index.html
 RewriteRule ^ /404.html
 </IfModule>
 
-
